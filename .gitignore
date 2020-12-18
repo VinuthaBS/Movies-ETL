@@ -131,3 +131,6 @@ dmypy.json
 .DS_Store
 # Ignore config file
 config.py
+# Practice files to be ignored
+Copy_ETL_function_test.ipynb
+archive/
