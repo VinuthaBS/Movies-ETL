@@ -134,3 +134,6 @@ config.py
 # Practice files to be ignored
 Copy_ETL_function_test.ipynb
 archive/
+# Ignore large file ratings.csv as git-lfs as well fails to handle to push it to git
+ratings.csv
+
